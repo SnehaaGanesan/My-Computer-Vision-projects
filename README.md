@@ -21,3 +21,13 @@ Steps involved in the development of the project are : image preprocessing, edge
 
 Two approaches were used and their performance compared, the first was using the whole card as templates, and second using the number and the suite of the card and parsing them separately for a 2 step template matching. The latter produced much faster results. 
 
+Team Members : 
+
+1. Snehaa Ganesan (sg4860@nyu.edu)
+2. Prashant Nigam (pn745@nyu.edu)
+3. Rakshit Sareen (rs5606@nyu.edu)
+4. Ishita Verma (iv447@nyu.edu)
+
+
+
+
